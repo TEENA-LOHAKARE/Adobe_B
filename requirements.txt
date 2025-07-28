@@ -1,0 +1,5 @@
+PyMuPDF==1.22.0
+sentence-transformers==2.2.2
+torch==1.13.1
+huggingface_hub==0.10.1
+numpy<2.0

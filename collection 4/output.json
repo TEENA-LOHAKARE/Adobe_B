@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "input_documents": [
+            "plan_pitch.pdf",
+            "plan_sample.pdf",
+            "plan_strategy.pdf",
+            "plan_template.pdf"
+        ],
+        "persona": "Startup Consultant",
+        "job_to_be_done": "Evaluate business readiness and suggest improvements to startup planning and execution.",
+        "processing_timestamp": "2025-07-28T16:50:17.395649"
+    },
+    "extracted_sections": [
+        {
+            "document": "plan_pitch.pdf",
+            "section_title": "4",
+            "importance_rank": 1,
+            "page_number": 4
+        },
+        {
+            "document": "plan_sample.pdf",
+            "section_title": "BUSINESS PLAN",
+            "importance_rank": 2,
+            "page_number": 2
+        },
+        {
+            "document": "plan_strategy.pdf",
+            "section_title": "Why Develop a Business Plan?",
+            "importance_rank": 3,
+            "page_number": 2
+        },
+        {
+            "document": "plan_template.pdf",
+            "section_title": "Marketing Plan (cont.)",
+            "importance_rank": 4,
+            "page_number": 10
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "plan_pitch.pdf",
+            "refined_text": "4 \nVision/Mission Statement and Goals \n \nA. Vision Statement  \nThe vision/mission statements are clear summaries of where the business is headed. It \ndescribes what the business produces, who products are produced for, and unique \nbusiness characteristics. It will reflect the values of the management team and the type of \n business culture you are trying to create. \nB. Goals and Objectives \nWhat do you want your business to achieve? Be specific in terms of financial \nperformance, resource commitments (time and money) and risk.  \n When will various milestones be achieved? \nC. Keys to Success \nWhat do you need, or must happen, for you to succeed?",
+            "page_number": 4
+        },
+        {
+            "document": "plan_pitch.pdf",
+            "refined_text": "5 \n \nCompany Summary \n The material in this section is an introduction to the firm. \nA. Company Background \nWhat does your business do? \nWho were the founders of the business? \n What were the important milestones in the development of the business? \nB. Resources, Facilities and Equipment \nWith what do you produce your products or services? \nWhat are the land, equipment, human and financial resources? \nWho provides them? \n How are resource providers rewarded? \nC. Marketing Methods \nWhat is your annual sales volume in dollars and units? \nExplain how you work with others to improve returns. This may include a strategic \nalliance with suppliers or customers that you can leverage.  \nDo you use forward contracting, options, or futures? If so, how? \nHow much does it cost to produce and deliver your products and services? \n How is contracting used? \nD. Management and Organization  \nWho is currently on the management team? \nHow have management responsibilities been divided among the management",
+            "page_number": 5
+        },
+        {
+            "document": "plan_pitch.pdf",
+            "refined_text": "3 \nExecutive Summary \n \nThis section is a summary of the information from the pages that follow. Prepare it last, \nafter the business plan has been written. It should not exceed two pages. Headings to use \nin the Executive Summary: \nA. Vision/Mission Statement \nB. Company Summary \nC. Products/Services \nD. Market Assessment \nE. Strategic Implementation  \nF. Expected Outcomes",
+            "page_number": 3
+        },
+        {
+            "document": "plan_sample.pdf",
+            "refined_text": "BUSINESS PLAN \n \nWRITTEN PORTION \n1. \nTitle Page \n \na. \nName and address of business and owners of the business. \n \n2. \nTable of Contents \n \n3. \nExecutive Summary \na. \nThis is the most important section of the whole business plan!! If you turn off your \npotential investor they will not even read the rest of the information. \n \nb. \nWrite the plan so that it is easily understood by whoever is going to be reading it. \n \nc. \nVery brief description of the business. \n \nd. \nAmount of the loan being requested and what the money will be used for. \n \ne. \nHow the loan will be repaid. \n \n4. \nDescription of Business \na. \nThe type of business:  Is your business primarily merchandising, manufacturing or \nservice? \n \nb. \nWhat are the primary products or services that your business  provides? \n \nc. \nExplain how you are filling a need in the market place for your products or services. \nd. \nThe status of your business: Is your business a start-up, an expansion of a current \nbusiness, or a take-over of an",
+            "page_number": 2
+        },
+        {
+            "document": "plan_sample.pdf",
+            "refined_text": "f. \nIf you have purchase orders or letters of intent include them. \n \n7. \nCompetition \na. \nList your nearest competitors.  Include their name, address, phone number, hours of \noperation and any significant strengths or weaknesses that they may have (Be \nhonest). This can be done in outline format. \n \nb. \nHow is their business:  steady, increasing or decreasing?  Why? \nc. \nConclude with a summary of why your operation will be better than theirs and what \nyour major competitive advantages will be. \nd. \nUse this section to indicate that you have done your homework about your \ncompetition and to indicate that you have a strategy to take advantage of their \nweaknesses. \n \n8. \nLocation of Business \n \na. \nIs your building to be leased or owned?  State the terms. \n \nb. \nIf renovations are needed, what are they?  What is the expected cost? \n \nc. \nDoes the zoning permit your kind of business? \n \nd. \nWhat other positive factors are there about the location? \n \n9. \nManagement Team \n \na. \nPersonal",
+            "page_number": 3
+        },
+        {
+            "document": "plan_sample.pdf",
+            "refined_text": "CONNECTICUT SMALL BUSINESS DEVELOPMENT CENTER \n222 PITKIN ST  \nEAST HARTFORD, CT 06108 \nEMAIL: CTSBDC@UCONN.EDU \nPHONE: 877-723-2828 \n \n \nSAMPLE BUSINESS PLAN",
+            "page_number": 1
+        },
+        {
+            "document": "plan_strategy.pdf",
+            "refined_text": "Why Develop a Business Plan? \nIn the book The Entrepreneur\u2019s Manual, Richard M. White, Jr. states that \nbusiness plans are \u201croad maps\u201d for business creation:  \u201cYou identify your origin, select a \ndestination, and plot the shortest distance between the two points.\u201d  \n \nTrue, a business plan is essentially a blueprint for a business.  However, it also \nserves many other purposes: \n\uf0b7 A business plan is a detailed blueprint for the activities needed to establish a business \n(i.e. the details of a product or service, the market for that product or service, and the \nmanagement of the business providing that product or service). \n\uf0b7 A business plan is also the \u2018yardstick\u2019 by which a business owner measures success in \nmeeting stated goals and objectives. \n\uf0b7 Also, a business plan is a tool for obtaining a loan from a lending agency, or for \nattracting venture capital. \n \nWhat Does a Business Plan Look Like? \n \nThere is no standard format for a business plan, but there are many common \ncomponent",
+            "page_number": 2
+        },
+        {
+            "document": "plan_strategy.pdf",
+            "refined_text": "A SAMPLE BUSINESS PLAN FOR \nSMALL FOOD BUSINESSES \n  \n \nRodney B. Holcomb \nAssociate Professor, Dept. of Agricultural Economics \nBrowning Endowed Professor of Food Science, Food & Agricultural Products Center \n \nPhilip Kenkel \nProfessor, Dept. of Agricultural Economics \nBill Fitzwater Endowed Chair for Cooperative Studies \n \nLinda Blan-Byford \n(Former) Business Planning and Marketing Associate \nFood & Agricultural Products Center \n \nOklahoma State University \n \nJanuary 2006",
+            "page_number": 1
+        },
+        {
+            "document": "plan_strategy.pdf",
+            "refined_text": "Contingency Plans \nWhile careful planning was involved in setting the strategic goals for Whipped \nDream, it may be that these goals are not met.  The Beans have decided to set a zone of \nacceptability for meeting sales and financial objectives.  For both sales and financial \nobjectives, a 10% negative deviation from expected sales and projected returns on assets \nwill be accepted.  However, if sales objectives and returns on investment are less than \n 90% of projections, certain actions will be taken.  These actions include: \n1. For unacceptable sales levels during the first year:  Fancy\u2019s Foods will combat \nthis problem by doubling in-store promotions of Whipped Dream in Antlers and \nHugo.  The Beans will personally arrange and carry out these promotions on \nweekends at peak shopping times.  If sales do not increase within one month of the \nin-store promotions, Fancy\u2019s Foods will advertise in the weekly shopping circulars of \nthe stores for one month. \n \n2. For unacceptable sales lev",
+            "page_number": 16
+        },
+        {
+            "document": "plan_template.pdf",
+            "refined_text": "Marketing Plan (cont.) \n5. Strategy \nAs the name implies. this discusses how you will market your products and services. \nThis section can include: \nPromotions \nAdvertising \nBudget \nMarketing methods at different stages of the company: start-up, growth, etc. \nbusiness.com \n. \n\u2022 \u2022  \n\" \n, \n\" . ' ,  \nI \n':.\",.",
+            "page_number": 10
+        },
+        {
+            "document": "plan_template.pdf",
+            "refined_text": "Executive Stllnmary \nWhat does your company do? What industry are you joining? These are the types of questions to answer in the company \ndescription section of your business plan. Start the company description with a mission statement. Using no more than \n50 words, define the company's goals and culture. You don't have to include a mission statement, but if you do, this is \nthe place for it. \nCompany Goals \nGoals, both short and long term, should be included here. This shows others what you are hoping to accomplish \nover a particular period of time. For example, you may have a short term goal of obtaining 20 percent market \nshare. \nBusiness Philosophy \nWhat is most important to your business? What is your philosophy for achieving success? You need to clarify your \nphilosophy, as it gives others a clear idea of the direction you are taking the company. \nIndustry Description \nWhat is the history of the industry? Is it growing? Who are the primary competitors? How will you position the",
+            "page_number": 5
+        },
+        {
+            "document": "plan_template.pdf",
+            "refined_text": "Startup Expenses \nEven before you open your doors for business, you will face a variety of expenses. II is essential to \nestimate these expenses, including the source of funding. \nDue to the tendency to overspend, every business should add a line for contingencies. If you spend \nthe money, you have already accounted for it. If you don't, you will be left with an excess of cash. \nNote: your contingency amount should be 10 to 20 percent of your total startup expenses. \nbusiness.com \n,-,",
+            "page_number": 14
+        }
+    ]
+}

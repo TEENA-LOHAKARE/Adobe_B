@@ -1,0 +1,31 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_004",
+    "test_case_name": "business_plan_analysis",
+    "description": "Analyze and extract relevant sections from business plan documents"
+  },
+  "documents": [
+    {
+      "filename": "plan_pitch.pdf",
+      "title": "Pitch Deck"
+    },
+    {
+      "filename": "plan_sample.pdf",
+      "title": "Sample Business Plan"
+    },
+    {
+      "filename": "plan_strategy.pdf",
+      "title": "Business Strategy"
+    },
+    {
+      "filename": "plan_template.pdf",
+      "title": "Business Plan Template"
+    }
+  ],
+  "persona": {
+    "role": "Startup Consultant"
+  },
+  "job_to_be_done": {
+    "task": "Evaluate business readiness and suggest improvements to startup planning and execution."
+  }
+}

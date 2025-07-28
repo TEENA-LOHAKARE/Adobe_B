@@ -1,0 +1,211 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-28T16:50:12.446134"
+    },
+    "extracted_sections": [
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "\u2022",
+            "importance_rank": 1,
+            "page_number": 9
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "\u2022",
+            "importance_rank": 2,
+            "page_number": 15
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "section_title": "\u2022",
+            "importance_rank": 3,
+            "page_number": 6
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "section_title": "\u2022",
+            "importance_rank": 4,
+            "page_number": 7
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "o Add diced tomatoes, fish stock, wine, saffron, thyme, salt, and pepper, simmer",
+            "importance_rank": 5,
+            "page_number": 9
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "o Layer potatoes in the dish, seasoning with salt and pepper.",
+            "importance_rank": 6,
+            "page_number": 14
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "o Mix coconut milk with cooked rice and let sit for 10 minutes.",
+            "importance_rank": 7,
+            "page_number": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "section_title": "o 1 teaspoon salt",
+            "importance_rank": 8,
+            "page_number": 2
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "\u2022",
+            "importance_rank": 9,
+            "page_number": 8
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nPreheat oven to 350\u00b0F (175\u00b0C). \n\u2022 \nIn a bowl, whisk together eggs, milk, salt, and pepper. \n\u2022 \nStir in cheese, sausage or bacon, bell pepper, and onion. \n\u2022 \nPour the mixture into a greased baking dish. \n\u2022 \nBake for 30-35 minutes or until the eggs are set. \n\u2022 \nLet cool slightly before serving. \n \n \n \nBagel with Cream Cheese \nIngredients: \n\u2022 \n1 bagel, sliced and toasted \n\u2022 \n2 tablespoons cream cheese \n\u2022 \nOptional toppings: smoked salmon, capers, red onion, tomato slices \nInstructions: \n\u2022 \nSpread cream cheese on each half of the toasted bagel. \n\u2022 \nAdd optional toppings if desired. \n\u2022 \nServe immediately. \n \n \n     \nBreakfast Skillet \nIngredients: \n\u2022 \n2 large eggs \n\u2022 \n1/2 cup diced potatoes \n\u2022 \n1/4 cup diced bell pepper \n\u2022 \n1/4 cup diced onion \n\u2022 \n1/4 cup cooked sausage or bacon \n\u2022 \nSalt and pepper to taste \n\u2022 \n1 tablespoon olive oil \nInstructions: \n\u2022 \nHeat olive oil in a skillet over medium heat. \n\u2022 \nAdd potatoes, bell pepper, and onion, and c",
+            "page_number": 9
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "\u2022 \nServe immediately. \n \n \n \nBreakfast Bowl \nIngredients: \n\u2022 \n1/2 cup cooked quinoa \n\u2022 \n1/4 cup black beans, rinsed and drained \n\u2022 \n1/4 cup diced avocado \n\u2022 \n1/4 cup cherry tomatoes, halved \n\u2022 \n1 large egg, poached or fried \n\u2022 \nSalt and pepper to taste \n\u2022 \n1 tablespoon olive oil \nInstructions: \n\u2022 \nIn a bowl, combine quinoa, black beans, avocado, and cherry tomatoes. \n\u2022 \nTop with the poached or fried egg. \n\u2022 \nDrizzle with olive oil and season with salt and pepper. \n\u2022 \nServe immediately. \n \n \n \nBreakfast Croissant \nIngredients: \n\u2022 \n1 croissant, sliced in half \n\u2022 \n1 large egg \n\u2022 \n1 slice of cheese \n\u2022 \n1 slice of ham or bacon \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nCook the egg in a skillet over medium heat, seasoning with salt and pepper. \n\u2022 \nPlace the cheese on top of the egg to melt. \n\u2022 \nAssemble the sandwich with the egg, cheese, and ham or bacon between the \ncroissant halves. \n\u2022 \nServe immediately. \n \n \n \nBreakfast Frittata \nIngredients: \n\u2022 \n6 large eggs \n\u2022 \n1/4 cup milk \n\u2022 \n1",
+            "page_number": 10
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "\u2022 \nIn the morning, stir again and add your favorite toppings. \n \n \n \nEgg Mu\ufb03ns \nIngredients: \n\u2022 \n6 large eggs \n\u2022 \n1/4 cup milk \n\u2022 \n1/2 cup diced bell pepper \n\u2022 \n1/2 cup diced spinach \n\u2022 \n1/4 cup shredded cheese \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nPreheat oven to 350\u00b0F (175\u00b0C). \n\u2022 \nIn a bowl, whisk together eggs, milk, salt, and pepper. \n\u2022 \nStir in bell pepper, spinach, and cheese. \n\u2022 \nPour the mixture into a greased mu\ufb03n tin. \n\u2022 \nBake for 20-25 minutes or until the eggs are set. \n\u2022 \nLet cool before removing from the tin. \n \n \n \nApple Peanut Butter Sandwiches \nIngredients: \n\u2022 \n1 apple, cored and sliced into rings \n\u2022 \n2 tablespoons peanut butter \n\u2022 \nOptional toppings: granola, raisins, coconut flakes \nInstructions: \n\u2022 \nSpread peanut butter on one side of each apple ring. \n\u2022 \nAdd optional toppings if desired. \n\u2022 \nSandwich two apple rings together with the peanut butter sides facing in. \n \n \n \nProtein Smoothie \nIngredients: \n\u2022 \n1 banana \n\u2022 \n1/2 cup Greek yogurt \n\u2022 \n1/2 cup almo",
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "\u2022 \nAdd shrimp, mussels, and cooked chicken, simmer for an additional 10 minutes until \nseafood is cooked and rice is tender. \n\u2022 \nGarnish with lemon wedges and serve. \n \n \n \nPork Chops with Apples \nIngredients: \n\u2022 \n4 pork chops \n\u2022 \n2 apples, sliced \n\u2022 \n1 small onion, sliced \n\u2022 \n1/4 cup apple cider \n\u2022 \n1/4 cup chicken broth \n\u2022 \n2 tablespoons butter \n\u2022 \n1 tablespoon olive oil \n\u2022 \n1 teaspoon thyme \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nSeason pork chops with salt and pepper. \n\u2022 \nIn a large skillet, heat olive oil over medium heat. \n\u2022 \nCook pork chops until browned on both sides, then set aside. \n\u2022 \nIn the same skillet, melt butter and saut\u00e9 sliced onion and apples until softened. \n\u2022 \nStir in apple cider, chicken broth, and thyme. \n\u2022 \nReturn pork chops to the skillet and simmer for 10 minutes until cooked through. \n\u2022 \nServe warm. \n \n \n \nRatatouille \nIngredients: \n\u2022 \n1 eggplant, diced \n\u2022 \n1 zucchini, diced \n\u2022 \n1 bell pepper, diced \n\u2022 \n1 small onion, diced \n\u2022 \n2 cloves garlic, minced",
+            "page_number": 15
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "\u2022 \nBring to a simmer, then cover and transfer to the oven. \n\u2022 \nCook for 2 hours, adding mushrooms, carrots, and pearl onions in the last 30 minutes. \n\u2022 \nSeason with salt and pepper to taste. \n\u2022 \nServe warm. \n \n \n \nChicken Cacciatore \nIngredients: \n\u2022 \n4 boneless, skinless chicken thighs \n\u2022 \n1 small onion, diced \n\u2022 \n2 cloves garlic, minced \n\u2022 \n1 bell pepper, sliced \n\u2022 \n1 can (14.5 ounces) diced tomatoes \n\u2022 \n1/2 cup chicken broth \n\u2022 \n1/4 cup red wine \n\u2022 \n1 teaspoon dried oregano \n\u2022 \n1 teaspoon dried basil \n\u2022 \n1/4 cup olives, sliced \n\u2022 \n2 tablespoons olive oil \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nIn a large skillet, heat olive oil over medium heat. \n\u2022 \nAdd chicken thighs and cook until browned on both sides, then set aside. \n\u2022 \nIn the same skillet, saut\u00e9 diced onion, minced garlic, and sliced bell pepper until \nsoftened. \n\u2022 \nStir in diced tomatoes, chicken broth, red wine, oregano, basil, and olives. \n\u2022 \nReturn chicken to the skillet and simmer for 30 minutes until chicken is co",
+            "page_number": 8
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "\u2022 \nPlace chicken in a baking dish, top with marinara sauce and shredded mozzarella cheese. \n\u2022 \nBake for 20-25 minutes until cheese is melted and bubbly. \n\u2022 \nServe warm. \n \n \n \nSpaghetti Bolognese \nIngredients: \n\u2022 \n1 pound ground beef \n\u2022 \n1 small onion, diced \n\u2022 \n2 cloves garlic, minced \n\u2022 \n1 carrot, grated \n\u2022 \n1 celery stalk, diced \n\u2022 \n1 can (28 ounces) crushed tomatoes \n\u2022 \n1/4 cup tomato paste \n\u2022 \n1/2 cup red wine (optional) \n\u2022 \n1 teaspoon dried oregano \n\u2022 \n1 teaspoon dried basil \n\u2022 \nSalt and pepper to taste \n\u2022 \nSpaghetti for serving \n\u2022 \nGrated Parmesan cheese for garnish \nInstructions: \n\u2022 \nIn a large skillet, cook ground beef over medium heat until browned. \n\u2022 \nAdd diced onion, minced garlic, grated carrot, and diced celery, saut\u00e9 until vegetables \nare tender. \n\u2022 \nStir in crushed tomatoes, tomato paste, red wine (if using), oregano, basil, salt, and \npepper. \n\u2022 \nSimmer for 30 minutes, stirring occasionally. \n\u2022 \nCook spaghetti according to package instructions. \n\u2022 \nServe Bolognese sau",
+            "page_number": 3
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "refined_text": "\u2022 \n1 small onion, sliced \n\u2022 \n2 cloves garlic, minced \n\u2022 \n1 piece ginger, sliced \n\u2022 \n2 star anise \n\u2022 \n1 cinnamon stick \n\u2022 \n1 tablespoon fish sauce \n\u2022 \n1 tablespoon soy sauce \n\u2022 \n8 ounces rice noodles \n\u2022 \nFresh basil, cilantro, bean sprouts, lime wedges, and sliced jalape\u00f1os for garnish \nInstructions: \n\u2022 \nIn a large pot, bring beef broth to a boil. \n\u2022 \nAdd sliced onion, minced garlic, sliced ginger, star anise, and cinnamon stick. \n\u2022 \nSimmer for 30 minutes. \n\u2022 \nStir in fish sauce and soy sauce. \n\u2022 \nCook rice noodles according to package instructions. \n\u2022 \nDivide noodles and thinly sliced beef among bowls. \n\u2022 \nPour hot broth over the top. \n\u2022 \nGarnish with fresh basil, cilantro, bean sprouts, lime wedges, and sliced jalape\u00f1os. \n\u2022 \nServe immediately. \n \n \n \nYakitori \nIngredients: \n\u2022 \n1 pound chicken thighs, cut into bite-sized pieces \n\u2022 \n1/4 cup soy sauce \n\u2022 \n1/4 cup mirin \n\u2022 \n1/4 cup sake \n\u2022 \n2 tablespoons sugar \n\u2022 \nBamboo skewers \n\u2022 \nSliced green onions for garnish \nInstructions: \n\u2022 \nIn a",
+            "page_number": 6
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "refined_text": "\u2022 \nIn a bowl, mix crab meat, diced onion, breadcrumbs, mayonnaise, beaten egg, Dijon \nmustard, Worcestershire sauce, and Old Bay seasoning. \n\u2022 \nForm mixture into patties. \n\u2022 \nIn a skillet, heat vegetable oil over medium heat. \n\u2022 \nCook crab cakes until golden and crispy on both sides. \n\u2022 \nServe with lemon wedges. \n \n \n \nEnchiladas \nIngredients: \n\u2022 \n1 pound ground beef \n\u2022 \n1 small onion, diced \n\u2022 \n2 cloves garlic, minced \n\u2022 \n1 can (14.5 ounces) enchilada sauce \n\u2022 \n1 cup shredded cheese \n\u2022 \n8 tortillas \n\u2022 \n1 teaspoon cumin \n\u2022 \n1 teaspoon chili powder \n\u2022 \n2 tablespoons vegetable oil \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\u2022 \nIn a skillet, heat vegetable oil over medium heat. \n\u2022 \nCook ground beef, diced onion, and minced garlic until browned. \n\u2022 \nStir in cumin, chili powder, salt, and pepper. \n\u2022 \nFill tortillas with beef mixture and roll up. \n\u2022 \nPlace enchiladas in a baking dish and pour enchilada sauce over the top. \n\u2022 \nSprinkle with shredded cheese.",
+            "page_number": 11
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "refined_text": "\u2022 \n4 lamb chops \n\u2022 \n1/4 cup olive oil \n\u2022 \n2 cloves garlic, minced \n\u2022 \n1 tablespoon fresh rosemary, chopped \n\u2022 \nSalt and pepper to taste \n\u2022 \n1/2 cup fresh mint leaves \n\u2022 \n1/4 cup white vinegar \n\u2022 \n1 tablespoon sugar \nInstructions: \n\u2022 \nPreheat grill to medium-high heat. \n\u2022 \nIn a bowl, mix olive oil, minced garlic, chopped rosemary, salt, and pepper. \n\u2022 \nBrush the mixture over the lamb chops. \n\u2022 \nGrill lamb chops for 4-5 minutes per side until cooked to desired doneness. \n\u2022 \nIn a blender, combine mint leaves, white vinegar, and sugar, blend until smooth. \n\u2022 \nServe lamb chops with mint sauce. \n \n \n \nLobster Tail \nIngredients: \n\u2022 \n4 lobster tails \n\u2022 \n1/4 cup butter, melted \n\u2022 \n2 cloves garlic, minced \n\u2022 \n1 lemon, juiced \n\u2022 \n1 tablespoon fresh parsley, chopped \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nPreheat oven to 425\u00b0F (220\u00b0C). \n\u2022 \nUsing kitchen shears, cut the top shell of the lobster tails lengthwise. \n\u2022 \nGently pull the lobster meat out of the shell and place it on top. \n\u2022 \nIn a",
+            "page_number": 14
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "refined_text": "\u2022 \nChopped parsley for garnish \n\u2022 \nCooked couscous for serving \nInstructions: \n\u2022 \nIn a large pot, heat olive oil over medium heat. \n\u2022 \nBrown chicken thighs on all sides, then set aside. \n\u2022 \nSaut\u00e9 onion and garlic until softened. \n\u2022 \nStir in cumin, cinnamon, and turmeric, then add chicken broth, apricots, and olives. \n\u2022 \nReturn chicken to the pot, cover, and simmer for 45 minutes until tender. \n\u2022 \nSeason with salt and pepper. \n\u2022 \nGarnish with parsley and serve over couscous. \n \n \n \nMushroom Risotto \nIngredients: \n\u2022 \n1 cup Arborio rice \n\u2022 \n4 cups chicken or vegetable broth \n\u2022 \n1 small onion, diced \n\u2022 \n2 cloves garlic, minced \n\u2022 \n1 cup mushrooms, sliced \n\u2022 \n1/2 cup white wine \n\u2022 \n1/2 cup grated Parmesan cheese \n\u2022 \n2 tablespoons butter \n\u2022 \n2 tablespoons olive oil \n\u2022 \nSalt and pepper to taste \n\u2022 \nChopped parsley for garnish \nInstructions: \n\u2022 \nHeat broth in a pot and keep warm. \n\u2022 \nIn a large skillet, heat olive oil and 1 tablespoon butter over medium heat. \n\u2022 \nSaut\u00e9 onion, garlic, and mushr",
+            "page_number": 7
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "refined_text": "\u2022 \n1 cup barbecue sauce \n\u2022 \n1/2 cup chicken broth \n\u2022 \n1 tablespoon brown sugar \n\u2022 \n1 teaspoon smoked paprika \n\u2022 \nSalt and pepper to taste \n\u2022 \nBuns for serving \n\u2022 \nColeslaw for topping (optional) \nInstructions: \n\u2022 \nSeason pork shoulder with salt, pepper, and smoked paprika. \n\u2022 \nPlace onion and garlic in a slow cooker, then add pork. \n\u2022 \nMix barbecue sauce, chicken broth, and brown sugar, and pour over pork. \n\u2022 \nCook on low for 8 hours or high for 4 hours until pork shreds easily. \n\u2022 \nShred pork with forks and mix with sauce. \n\u2022 \nServe on buns with coleslaw if desired. \n \n \n \nStuffed Chicken Breasts \nIngredients: \n\u2022 \n4 boneless, skinless chicken breasts \n\u2022 \n1/2 cup spinach, chopped \n\u2022 \n1/2 cup feta cheese, crumbled \n\u2022 \n1/4 cup sun-dried tomatoes, chopped \n\u2022 \n2 cloves garlic, minced \n\u2022 \n2 tablespoons olive oil \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\u2022 \nCut a pocket into each chicken breast. \n\u2022 \nIn a bowl, mix spinach, feta, sun-dried tomatoes, and g",
+            "page_number": 8
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "refined_text": "\u2022 \nCook gnocchi according to package instructions, then drain. \n\u2022 \nIn a large skillet, melt butter over medium heat. \n\u2022 \nAdd minced garlic and sage leaves, saut\u00e9 until fragrant and sage is crispy. \n\u2022 \nAdd cooked gnocchi to the skillet and toss to coat in the butter sauce. \n\u2022 \nSeason with salt and pepper, and sprinkle with Parmesan cheese. \n\u2022 \nServe warm. \n \n \n \nHoney Garlic Pork Ribs \nIngredients: \n\u2022 \n2 pounds pork ribs \n\u2022 \n1/4 cup honey \n\u2022 \n1/4 cup soy sauce \n\u2022 \n2 tablespoons rice vinegar \n\u2022 \n3 cloves garlic, minced \n\u2022 \n1 teaspoon grated ginger \n\u2022 \n1 teaspoon paprika \n\u2022 \nSalt and pepper to taste \n\u2022 \nSliced green onions for garnish \nInstructions: \n\u2022 \nPreheat oven to 300\u00b0F (150\u00b0C). \n\u2022 \nSeason ribs with salt, pepper, and paprika, then place in a baking dish. \n\u2022 \nIn a bowl, mix honey, soy sauce, rice vinegar, garlic, and ginger. Pour over the ribs. \n\u2022 \nCover with foil and bake for 2.5 hours, basting occasionally with the sauce. \n\u2022 \nRemove foil, increase oven to 400\u00b0F (200\u00b0C), and bake for",
+            "page_number": 6
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o Add diced tomatoes, fish stock, wine, saffron, thyme, salt, and pepper, simmer \nfor 20 minutes. \no Add fish fillets, shrimp, and mussels, cook until seafood is done. \no Serve hot with crusty bread. \n \nBratkartoffeln (Fried Potatoes) \n\u2022 \nIngredients: \no 4 potatoes \no 1 small onion \no 1/4 cup bacon \no 2 tablespoons butter \no 1 teaspoon salt \no 1/2 teaspoon pepper \n\u2022 \nInstructions: \no Boil potatoes until tender, then slice. \no Cook diced bacon until crispy, then remove and set aside. \no Saut\u00e9 sliced potatoes and diced onion in butter until golden. \no Stir in bacon, salt, and pepper. \no Serve warm. \n \nBriam \n\u2022 \nIngredients: \no 2 potatoes \no 2 zucchinis \no 2 eggplants \no 2 tomatoes \no 1 small onion \no 4 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon oregano \no 1 teaspoon salt \no 1/2 teaspoon pepper \n\u2022 \nInstructions: \no Preheat oven to 375\u00b0F (190\u00b0C). \no Slice potatoes, zucchinis, eggplants, and tomatoes. \no Saut\u00e9 diced onion and minced garlic in olive oil until softened. \no Layer vegetab",
+            "page_number": 9
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o 2-3 Thai chilies \no 2 tablespoons fish sauce \no 2 tablespoons tamarind paste \no 1 tablespoon sugar \no 1/4 cup cilantro \n\u2022 \nInstructions: \no Bring fish stock to a boil. \no Add lemongrass, chilies, and tamarind paste, simmer for 10 minutes. \no Add pineapple, tomatoes, and fish fillets, cook until fish is done. \no Stir in fish sauce, sugar, and bean sprouts. \no Garnish with chopped cilantro and serve. \n \nCaprese Salad \n\u2022 \nIngredients: \no 4 tomatoes \no 1 pound fresh mozzarella \no 1/4 cup basil \no 2 tablespoons olive oil \no 1 tablespoon balsamic glaze \no 1 teaspoon salt \n\u2022 \nInstructions: \no Slice tomatoes and mozzarella. \no Arrange on a plate, alternating slices. \no Sprinkle with chopped basil, olive oil, balsamic glaze, and salt. \no Serve immediately. \n \nCarrot Salad \n\u2022 \nIngredients: \no 4 carrots \no 1/4 cup raisins \no 1/4 cup parsley \no 1/4 cup lemon juice \no 1/4 cup olive oil \no 1 teaspoon cumin \no 1 teaspoon salt \n\u2022 \nInstructions: \no Grate carrots and mix with raisins and chopped parsl",
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o Oil for frying \n\u2022 \nInstructions: \no Mix grated cassava with coconut milk and salt. \no Form mixture into flat cakes. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nBanchan \n\u2022 \nIngredients: \no Assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi \n\u2022 \nInstructions: \no Prepare each side dish separately. \no Arrange on small plates. \no Serve as accompaniments to the main meal. \n \nBanh Beo \n\u2022 \nIngredients: \no 1 cup rice flour \no 1/2 cup water \no 1/2 cup coconut milk \no 1/4 cup shrimp \no 1/4 cup green onions \no 1/4 cup fried shallots \no 1 teaspoon salt \no 1/2 teaspoon sugar \n\u2022 \nInstructions: \no Mix rice flour, water, coconut milk, salt, and sugar to form a batter. \no Pour batter into small dishes and steam until set. \no Saut\u00e9 chopped shrimp and green onions until cooked. \no Top steamed cakes with shrimp, green onions, and fried shallots. \no Serve with dipping sauce. \n \nBanh Xeo \n\u2022 \nIngredients: \no 1 cup rice flour \no 1/2 cup coconut milk",
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "o Layer potatoes in the dish, seasoning with salt and pepper. \no Mix cream, milk, and minced garlic, pour over potatoes. \no Sprinkle with grated Gruy\u00e8re cheese. \no Bake for 45 minutes until golden and bubbly. \no Serve warm. \n \nGreek Salad \n\u2022 \nIngredients: \no 4 tomatoes \no 1 cucumber \no 1 small red onion \no 1/4 cup olives \no 1/4 cup feta cheese \no 1/4 cup olive oil \no 2 tablespoons red wine vinegar \no 1 teaspoon oregano \no 1 teaspoon salt \n\u2022 \nInstructions: \no Dice tomatoes and cucumber, slice red onion. \no Mix vegetables with olives and crumbled feta cheese. \no Whisk olive oil, vinegar, oregano, and salt, then pour over salad. \no Toss well and serve. \n \nGreen Bean Casserole \n\u2022 \nIngredients: \no 4 cups green beans \no 1 can cream of mushroom soup \no 1/2 cup milk \no 1 cup fried onions \no 1 teaspoon salt \no 1/2 teaspoon pepper \n\u2022 \nInstructions: \no Preheat oven to 350\u00b0F (175\u00b0C). \no Cook green beans until tender. \no Mix soup, milk, salt, and pepper in a baking dish. \no Add green beans and half",
+            "page_number": 14
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "o Rinse lentils and cook in water until tender. \no Heat oil in a pan and saut\u00e9 diced onion and minced garlic until translucent. \no Add cumin, turmeric, coriander, and garam masala, cook for 1 minute. \no Add cooked lentils and stir to combine. \no Simmer for 10 minutes, stirring occasionally. \no Add salt to taste and serve. \n \nDeviled Eggs \n\u2022 \nIngredients: \no 6 eggs \no 1/4 cup mayonnaise \no 1 tablespoon mustard \no 1 tablespoon vinegar \no 1 teaspoon salt \no 1/2 teaspoon paprika \n\u2022 \nInstructions: \no Hard-boil eggs, then peel and halve. \no Remove yolks and mash with mayonnaise, mustard, vinegar, and salt. \no Spoon or pipe yolk mixture into egg whites. \no Sprinkle with paprika and serve. \n \nDolmas \n\u2022 \nIngredients: \no 1 jar grape leaves \no 1 cup rice \no 1 small onion \no 1/4 cup pine nuts \no 1/4 cup currants \no 1/4 cup lemon juice \no 1/4 cup olive oil \no 1 teaspoon salt \n\u2022 \nInstructions: \no Rinse grape leaves and pat dry. \no Saut\u00e9 diced onion in olive oil until translucent. \no Add rice, pine n",
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "o 1 small onion \no 2 tomatoes \no 1 teaspoon salt \no 1 tablespoon chopped cilantro \no 1 teaspoon minced garlic \n\u2022 \nInstructions: \no Cut avocados in half, remove the pit, and scoop out the flesh into a bowl. \no Mash the avocados with a fork. \no Add lime juice, diced onion, chopped tomatoes, salt, cilantro, and garlic. \no Mix well and serve immediately. \n \nGurkensalat (Cucumber Salad) \n\u2022 \nIngredients: \no 2 cucumbers \no 1/4 cup sour cream \no 2 tablespoons vinegar \no 1 tablespoon sugar \no 1 teaspoon dill \no 1 teaspoon salt \n\u2022 \nInstructions: \no Slice cucumbers thinly. \no Mix sour cream, vinegar, sugar, dill, and salt in a bowl. \no Toss cucumbers with the dressing. \no Serve chilled. \n \nGyeran Jjim \n\u2022 \nIngredients: \no 4 eggs \no 1 cup water \no 1/4 cup green onions \no 1 teaspoon salt \no 1/2 teaspoon sesame oil \n\u2022 \nInstructions: \no Beat eggs with water, salt, and chopped green onions. \no Pour mixture into a heatproof bowl. \no Steam for 10-15 minutes until set. \no Drizzle with sesame oil and serve",
+            "page_number": 15
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "o Mix coconut milk with cooked rice and let sit for 10 minutes. \no Serve rice with sliced mangoes. \n \nMapo Tofu \n\u2022 \nIngredients: \no 1 block tofu \no 1/2 pound ground pork \no 1 small onion \no 2 cloves garlic \no 1 tablespoon chili bean paste \no 2 tablespoons soy sauce \no 1 tablespoon rice wine \no 1 teaspoon sugar \no 1/4 cup chicken broth \no 1 tablespoon cornstarch \no 1/4 cup chopped green onions \n\u2022 \nInstructions: \no Cut tofu into cubes and set aside. \no Saut\u00e9 ground pork, diced onion, and minced garlic until browned. \no Add chili bean paste, soy sauce, rice wine, and sugar, cook for 2 minutes. \no Add chicken broth and tofu, simmer for 5 minutes. \no Mix cornstarch with water and add to the pan, stirring until thickened. \no Garnish with chopped green onions and serve. \n \nMashed Potatoes \n\u2022 \nIngredients: \no 4 potatoes \no 1/2 cup milk \no 1/4 cup butter \no 1 teaspoon salt \no 1/2 teaspoon pepper \n\u2022 \nInstructions: \no Peel and dice potatoes. \no Boil potatoes until tender, then drain. \no Mash pota",
+            "page_number": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "o Remove from heat and stir in tapioca flour until smooth. \no Let cool slightly, then mix in grated cheese and beaten eggs. \no Form dough into balls and place on a baking sheet. \no Bake for 20-25 minutes until golden. \no Serve warm. \n \nPad See Ew \n\u2022 \nIngredients: \no 8 ounces wide rice noodles \no 1/2 pound chicken breast \no 1 cup broccoli \no 2 eggs \no 2 tablespoons soy sauce \no 2 tablespoons oyster sauce \no 1 tablespoon sugar \no 1 tablespoon vegetable oil \n\u2022 \nInstructions: \no Soak rice noodles in warm water until softened, then drain. \no Saut\u00e9 sliced chicken in vegetable oil until cooked, then set aside. \no Scramble eggs in the same pan. \no Add noodles, soy sauce, oyster sauce, and sugar, stir to combine. \no Add broccoli and cooked chicken, stir-fry until heated through. \no Serve warm. \n \nPad Thai \n\u2022 \nIngredients: \no 8 ounces rice noodles \no 1/2 pound shrimp \no 2 eggs \no 1 cup bean sprouts \no 1/4 cup peanuts \no 2 tablespoons fish sauce \no 2 tablespoons tamarind paste \no 1 tablespoon sug",
+            "page_number": 15
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "o 2 cloves garlic \no 4 tomatoes \no 4 cups vegetable broth \no 1 teaspoon cumin \no 1 teaspoon coriander \no 1 teaspoon turmeric \no 1 teaspoon salt \no 1/4 cup cilantro \n\u2022 \nInstructions: \no Saut\u00e9 diced onion and minced garlic until softened. \no Add diced tomatoes, lentils, chickpeas, vegetable broth, cumin, coriander, \nturmeric, and salt. \no Simmer for 30 minutes until lentils are tender. \no Stir in chopped cilantro and serve warm. \n \nHorta \n\u2022 \nIngredients: \no 1 pound dandelion greens \no 1/4 cup olive oil \no 1/4 cup lemon juice \no 1 teaspoon salt \n\u2022 \nInstructions: \no Boil dandelion greens until tender, then drain. \no Toss greens with olive oil, lemon juice, and salt. \no Serve warm or chilled. \n \nHot and Sour Soup \n\u2022 \nIngredients: \no 4 cups chicken broth \no 1/2 cup sliced mushrooms \no 1/4 cup bamboo shoots \no 1/4 cup tofu \no 2 tablespoons soy sauce \no 2 tablespoons rice vinegar \no 1 tablespoon cornstarch \no 1 teaspoon chili paste \no 1 egg \no 1/4 cup chopped green onions \n\u2022 \nInstructions: \no",
+            "page_number": 1
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "refined_text": "o 1 teaspoon salt \no Skewers \n\u2022 \nInstructions: \no Cut paneer into cubes. \no Mix yogurt, lemon juice, cumin, coriander, garam masala, turmeric, and salt in a \nbowl. \no Add paneer cubes and marinate for at least 1 hour. \no Thread paneer onto skewers. \no Grill or broil until golden, turning occasionally. \no Serve warm. \n \nPanzanella \n\u2022 \nIngredients: \no 4 cups cubed bread \no 4 tomatoes \no 1 cucumber \no 1 small red onion \no 1/4 cup basil \no 1/4 cup olive oil \no 2 tablespoons red wine vinegar \no 1 teaspoon salt \n\u2022 \nInstructions: \no Toast bread cubes until golden. \no Dice tomatoes and cucumber, slice red onion. \no Mix bread, tomatoes, cucumber, onion, and chopped basil. \no Whisk olive oil, vinegar, and salt, then pour over salad. \no Toss well and serve. \n \nPapadum \n\u2022 \nIngredients: \no 1 cup urad dal flour \no 1/4 cup water \no 1/2 teaspoon salt \no Oil for frying \n\u2022 \nInstructions: \no Mix urad dal flour, water, and salt to form a dough. \no Roll dough into thin circles. \no Fry in hot oil until cris",
+            "page_number": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "refined_text": "o Stir in butter and Parmesan cheese. \no Serve warm. \n \nPotato Salad \n\u2022 \nIngredients: \no 4 potatoes \no 2 eggs \no 1 small onion \no 1/2 cup mayonnaise \no 2 tablespoons mustard \no 1 tablespoon vinegar \no 1 teaspoon salt \no 1/2 teaspoon pepper \n\u2022 \nInstructions: \no Boil potatoes until tender, then dice. \no Hard-boil eggs, then chop. \no Mix potatoes, eggs, diced onion, mayonnaise, mustard, vinegar, salt, and pepper. \no Chill for at least 1 hour before serving. \n \nPretzels \n\u2022 \nIngredients: \no 2 1/4 teaspoons active dry yeast \no 1 teaspoon sugar \no 1 cup warm water \no 3 cups flour \no 1 teaspoon salt \no 1/4 cup baking soda \no 1 egg \no Coarse salt \n\u2022 \nInstructions: \no Dissolve yeast and sugar in warm water, let sit until foamy. \no Mix flour and salt in a bowl, then add yeast mixture. \no Knead until smooth, then let rise until doubled. \no Divide dough into pieces and roll into ropes, then shape into pretzels. \no Boil water with baking soda and dip pretzels in the solution. \no Place on a baking sh",
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "refined_text": "o Serve as a dip or side dish. \n \nSom Tum (Green Papaya Salad) \n\u2022 \nIngredients: \no 1 green papaya \no 2 tomatoes \no 1 carrot \no 2 cloves garlic \no 2 tablespoons fish sauce \no 2 tablespoons lime juice \no 1 tablespoon sugar \no 1 tablespoon peanuts \no 1-2 Thai chilies \n\u2022 \nInstructions: \no Peel and shred green papaya and carrot. \no Crush garlic and chilies in a mortar and pestle. \no Add fish sauce, lime juice, and sugar, mix well. \no Toss shredded papaya, carrot, and sliced tomatoes with the dressing. \no Garnish with crushed peanuts and serve. \n \nSopa de Tortilla \n\u2022 \nIngredients: \no 4 corn tortillas \no 1 tablespoon vegetable oil \no 1 small onion \no 2 cloves garlic \no 4 cups chicken broth \no 2 tomatoes \no 1 teaspoon cumin \no 1 avocado \no 1/4 cup cilantro \n\u2022 \nInstructions: \no Cut tortillas into strips and fry in oil until crispy. \no Saut\u00e9 diced onion and minced garlic in a pot until translucent. \no Add diced tomatoes and cumin, cook for 5 minutes. \no Pour in chicken broth and bring to a boil.",
+            "page_number": 15
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "\u2022 \n1/4 cup red onion, finely chopped \n\u2022 \n1/4 cup cilantro, chopped \n\u2022 \n2 tablespoons olive oil \n\u2022 \n1 tablespoon lime juice \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nIn a large bowl, combine the black beans, corn, tomatoes, red onion, and cilantro. \n\u2022 \nDrizzle with olive oil and lime juice. \n\u2022 \nSeason with salt and pepper, then toss to combine. \n \n \n \nChicken and Pesto Sandwich \nIngredients: \n\u2022 \n2 slices whole grain bread \n\u2022 \n1 cup cooked chicken breast, sliced \n\u2022 \n2 tablespoons pesto \n\u2022 \n1/2 cup baby spinach \n\u2022 \n1/4 cup roasted red peppers, sliced \nInstructions: \n\u2022 \nSpread pesto on one slice of bread. \n\u2022 \nLayer the chicken, spinach, and roasted red peppers on top. \n\u2022 \nTop with the second slice of bread and cut in half. \n \n \n   \nLentil Salad \nIngredients: \n\u2022 \n1 cup cooked lentils \n\u2022 \n1/2 cup cherry tomatoes, halved \n\u2022 \n1/2 cucumber, diced \n\u2022 \n1/4 cup red onion, finely chopped \n\u2022 \n1/4 cup feta cheese, crumbled \n\u2022 \n2 tablespoons olive oil \n\u2022 \n1 tablespoon red wine vinegar \n\u2022 \nSalt a",
+            "page_number": 8
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "\u2022 \nServe on lettuce leaves or whole grain bread. \n \n \n \nCaprese Sandwich \nIngredients: \n\u2022 \n2 slices ciabatta bread \n\u2022 \n1/2 cup fresh mozzarella, sliced \n\u2022 \n1 tomato, sliced \n\u2022 \nFresh basil leaves \n\u2022 \n1 tablespoon balsamic glaze \n\u2022 \n1 tablespoon olive oil \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nDrizzle olive oil on one slice of bread. \n\u2022 \nLayer the mozzarella, tomato, and basil on top. \n\u2022 \nDrizzle with balsamic glaze and season with salt and pepper. \n\u2022 \nTop with the second slice of bread and cut in half. \n \n \n \nChicken Salad Lettuce Wraps \nIngredients: \n\u2022 \n1 cup cooked chicken breast, shredded \n\u2022 \n1/4 cup mayonnaise \n\u2022 \n1 tablespoon Dijon mustard \n\u2022 \n1 celery stalk, diced \n\u2022 \n1/4 cup red grapes, halved \n\u2022 \nSalt and pepper to taste \n\u2022 \nLettuce leaves for serving \nInstructions: \n\u2022 \nIn a bowl, combine the chicken, mayonnaise, Dijon mustard, celery, and grapes. \n\u2022 \nSeason with salt and pepper. \n\u2022 \nServe in lettuce leaves. \n \n \n \nVeggie and Hummus Wrap \nIngredients: \n\u2022 \n1 whole wheat",
+            "page_number": 4
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "\u2022 \n1 cup cooked chicken breast, diced \n\u2022 \n1/2 avocado, diced \n\u2022 \n1/4 cup cherry tomatoes, halved \n\u2022 \n1/4 cup red onion, finely chopped \n\u2022 \n2 tablespoons olive oil \n\u2022 \n1 tablespoon lemon juice \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nIn a bowl, combine the chicken, avocado, tomatoes, and red onion. \n\u2022 \nDrizzle with olive oil and lemon juice. \n\u2022 \nSeason with salt and pepper, then toss to combine. \n \n \n \nTurkey and Cheese Roll-Ups \nIngredients: \n\u2022 \n4 slices turkey breast \n\u2022 \n4 slices cheese (such as cheddar or Swiss) \n\u2022 \n1/2 cup baby spinach \n\u2022 \n1/4 cup hummus \nInstructions: \n\u2022 \nLay a slice of turkey flat and spread with hummus. \n\u2022 \nPlace a slice of cheese and a few spinach leaves on top. \n\u2022 \nRoll up tightly and repeat with remaining ingredients. \n \n \n \nMediterranean Chickpea Salad \nIngredients: \n\u2022 \n1 can chickpeas, drained and rinsed \n\u2022 \n1/2 cup cherry tomatoes, halved \n\u2022 \n1/2 cucumber, diced \n\u2022 \n1/4 cup red onion, finely chopped \n\u2022 \n1/4 cup feta cheese, crumbled \n\u2022 \n2 tablespoons",
+            "page_number": 6
+        }
+    ]
+}
